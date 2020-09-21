@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+Lib/
+Scripts/
+etc/
+face_recognition/
+pyvenv.cfg
+share/
+unknown_faces/
+known_faces/
+Face_Recognition.ipynb
